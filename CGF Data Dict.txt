@@ -1,0 +1,11 @@
+The data consists of the following variables:
+	1. Product: Model of treadmill purchased (TM195, TM498, or TM798);
+	2. Branch: Branch location where purchase is made (North, South, East or West);
+	3. Gender: Gender of customer (Male or Female);
+	4. Age: Age of customer in years (integer values);
+	5. Education: Number of years of education customer had completed (integer values);
+	6. MaritalStatus: Marital status of customer (Single or Partnered);
+	7. Usage: Average number of times the customer plans to use the treadmill each week (integer values); 
+	8. Fitness: Customer’s self-rated fitness on a 1-to-5 scale (1: very unfit; 5: very fit);
+	9. Income: Customer’s annual household income (integer values);
+	10. Miles: Average number of miles the customer expects to walk/run each week (integer values). 
